@@ -1,0 +1,57 @@
+[
+   {
+      "id": 1,
+      "title": "Captain America",
+      "isNew": 0,
+      "rating": "UA",
+      "like_percent": 72,
+      "vote_count": 5697,
+      "language": "English",
+      "image": "https://boygeniusreport.files.wordpress.com/2014/04/captain-america.jpg",
+      "type": "3D"
+   },
+   {
+      "id": 2,
+      "title": "The Dark Knight",
+      "isNew": 0,
+      "rating": "UA",
+      "like_percent": 92,
+      "vote_count": 9997,
+      "language": "English",
+      "image": "https://boygeniusreport.files.wordpress.com/2014/04/captain-america.jpg",
+      "type": "2D"
+   },
+   {
+      "id": 3,
+      "title": "Avenger: Endgame",
+      "isNew": 1,
+      "rating": "UA",
+      "like_percent": 75,
+      "vote_count": 8765,
+      "language": "English",
+      "image": "https://boygeniusreport.files.wordpress.com/2014/04/captain-america.jpg",
+      "type": "3D"
+   },
+   {
+      "id": 4,
+      "title": "Justice League",
+      "isNew": 0,
+      "rating": "UA",
+      "like_percent": 61,
+      "vote_count": 5907,
+      "language": "English",
+      "image": "https://boygeniusreport.files.wordpress.com/2014/04/captain-america.jpg",
+      "type": "3D"
+   },
+   {
+      "id": 5,
+      "title": "Joker",
+      "isNew": 1,
+      "rating": "UA",
+      "like_percent": 95,
+      "vote_count": 9397,
+      "language": "English",
+      "image": "https://boygeniusreport.files.wordpress.com/2014/04/captain-america.jpg",
+      "type": "2D"
+   }
+  ]
