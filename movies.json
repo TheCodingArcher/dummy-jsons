@@ -53,5 +53,16 @@
       "language": "English",
       "image": "https://www.geo.tv/assets/uploads/updates/2020-01-10/266603_9828246_updates.jpg",
       "type": "2D"
+   },
+   {
+      "id": 6,
+      "title": "Captain Marvel",
+      "isNew": 1,
+      "rating": "UA",
+      "like_percent": 67,
+      "vote_count": 397,
+      "language": "English",
+      "image": "https://www.geo.tv/assets/uploads/updates/2020-01-10/266603_9828246_updates.jpg",
+      "type": "3D"
    }
   ]
